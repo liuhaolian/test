@@ -1,7 +1,3 @@
 this is  a txt
 this is a second modified
 this is a third modified
-
-this is third modify for confiict
-
-this is third modify for confiict
